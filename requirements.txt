@@ -14,5 +14,5 @@ deprecated~=1.2.11
 opencv-python~=4.4.0.42
 plotly~=4.14.3
 pyrealsense2~=2.38.1.2225
-pillow~=8.1.0
+pillow~=7.2.0
 prettytable~=2.0.0
